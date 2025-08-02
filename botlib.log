@@ -1,0 +1,198 @@
+entity worldspawn unknown item
+entity target_location unknown item
+entity misc_model unknown item
+entity misc_model unknown item
+entity light unknown item
+entity target_position unknown item
+entity info_player_intermission unknown item
+entity info_player_deathmatch unknown item
+entity info_player_deathmatch unknown item
+entity target_position unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity misc_model unknown item
+entity misc_model unknown item
+entity target_position unknown item
+entity light unknown item
+entity info_player_deathmatch unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity target_position unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_position unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity light unknown item
+entity info_player_deathmatch unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity misc_model unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity misc_model unknown item
+entity misc_model unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity target_speaker unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity light unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity target_location unknown item
+entity func_timer unknown item
+entity target_speaker unknown item
+entity info_player_deathmatch unknown item
+entity info_player_deathmatch unknown item
+bots/major_c.cskill 0
+{
+    0 Major
+    1 female
+    2 0.483333
+    3 bots/major_w.c
+    4 0.483333
+    5 90
+    6 3.166667
+    7 0.483333
+    8 0.400000
+    9 0.500000
+   10 0.500000
+   11 0.500000
+   12 0.500000
+   13 0.500000
+   14 0.500000
+   15 0.500000
+   16 0.483333
+   17 0.500000
+   18 0.500000
+   19 0.500000
+   20 0.500000
+   21 bots/major_t.c
+   22 major
+   23 400
+   24 0.500000
+   25 0.500000
+   26 0.500000
+   27 0.500000
+   28 0.500000
+   29 0.500000
+   30 0.500000
+   31 0.150000
+   32 0.500000
+   33 0.500000
+   34 0.500000
+   35 0.333333
+   36 0.633333
+   37 0.500000
+   38 0.500000
+   39 0.500000
+   40 bots/major_i.c
+   41 0.500000
+   42 0.500000
+   43 0.500000
+   44 0.500000
+   45 0.500000
+   46 0.500000
+   47 0.466667
+   48 0.000000
+}
+item info 7 "weapon_gauntlet" has no fuzzy weight
+item info 16 "weapon_grapplinghook" has no fuzzy weight
+linked item ammo_bullets to an entitylinked item ammo_shells to an entitylinked item item_health to an entitylinked item item_armor_shard to an entitylinked item item_health_large to an entitylinked item item_health to an entitylinked item item_armor_body to an entitylinked item weapon_plasmagun to an entitylinked item weapon_rocketlauncher to an entitylinked item weapon_shotgun to an entitylinked item item_health to an entitylinked item ammo_cells to an entitylinked item item_armor_shard to an entitylinked item item_health to an entitylinked item item_armor_shard to an entitylinked item item_armor_shard to an entitylinked item item_armor_shard to an entitylinked item item_armor_shard to an entity
